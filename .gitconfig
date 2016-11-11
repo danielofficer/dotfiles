@@ -1,0 +1,5 @@
+[user]
+	email = daniel@deeso.net
+	name = Daniel Officer
+[alias]
+	clear-branches = !git branch --merged | egrep -v \"(^\\*|master|develep|support.*)\" | xargs git branch -d
