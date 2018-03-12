@@ -9,6 +9,8 @@ filetype plugin indent on
 syntax on
 colo molokai
 
+set encoding=utf-8
+
 set guifont=Ubuntu\ Mono\ derivative\ Powerline\ 15
 set guioptions-=T
 set guioptions-=r
