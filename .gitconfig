@@ -3,3 +3,9 @@
 	name = Daniel Officer
 [alias]
 	clear-branches = !git branch --merged | egrep -v \"(^\\*|master|develep|support.*)\" | xargs git branch -d
+[pull]
+	rebase = true
+[fetch]
+	prune = true
+[diff]
+	colorMoved = zebra
