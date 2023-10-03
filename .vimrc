@@ -11,7 +11,7 @@ colo molokai
 
 set encoding=utf-8
 
-set guifont=Ubuntu\ Mono\ derivative\ Powerline\ 15
+set guifont=Go\ Mono\ for\ Powerline:h16
 set guioptions-=T
 set guioptions-=r
 set guioptions-=L
